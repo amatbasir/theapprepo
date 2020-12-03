@@ -2,6 +2,7 @@ package Service
 
 type AuthInformation struct {
 	Email string
+
 	Permission []string
 	Role string
 }
