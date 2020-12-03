@@ -10,8 +10,7 @@ require (
 	github.com/gin-gonic/gin v1.6.3
 	github.com/go-openapi/spec v0.19.15 // indirect
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
-	github.com/streSelect Allow to let Microsoft Teams use your mic and camera for calls and meetings on this browser.
-adway/amqp v1.0.0
+	github.com/streadway/amqp v1.0.0
 	github.com/swaggo/swag v1.6.9 // indirect
 	github.com/urfave/cli/v2 v2.3.0 // indirect
 	golang.org/x/tools v0.0.0-20201201053039-1937afe4494c // indirect
